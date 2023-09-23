@@ -4,7 +4,10 @@ repo: status # The name of this repository
 
 sites:
   - name: Yurasubs
-    url: https://www.yurasu.xyz/
+    url: https://www.yurasu.xyz/    
+    expectedStatusCodes:
+      - 304
+      - 403
   - name: RDP Yura
     url: $RDPYURA
 
