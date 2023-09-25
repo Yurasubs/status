@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 60,
-    "timeWeek": 71,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 65,
+    "timeDay": 51,
+    "timeWeek": 65,
+    "timeMonth": 65,
+    "timeYear": 65,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "98.74%",
     "uptimeMonth": "98.74%",
     "uptimeYear": "98.74%",
-    "time": 448,
-    "timeDay": 594,
-    "timeWeek": 448,
-    "timeMonth": 448,
-    "timeYear": 448,
+    "time": 430,
+    "timeDay": 521,
+    "timeWeek": 430,
+    "timeMonth": 430,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2023-09-24": 27
     }
@@ -42,19 +42,19 @@
     "url": "$BACKUPWEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-web",
-    "status": "down",
-    "uptime": "0.74%",
-    "uptimeDay": "0.74%",
-    "uptimeWeek": "0.74%",
-    "uptimeMonth": "0.74%",
-    "uptimeYear": "0.74%",
-    "time": 58,
-    "timeDay": 58,
-    "timeWeek": 58,
-    "timeMonth": 58,
-    "timeYear": 58,
+    "status": "up",
+    "uptime": "6.18%",
+    "uptimeDay": "6.18%",
+    "uptimeWeek": "6.18%",
+    "uptimeMonth": "6.18%",
+    "uptimeYear": "6.18%",
+    "time": 46,
+    "timeDay": 46,
+    "timeWeek": 46,
+    "timeMonth": 46,
+    "timeYear": 46,
     "dailyMinutesDown": {
-      "2023-09-25": 0
+      "2023-09-25": 1
     }
   }
 ]
