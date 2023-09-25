@@ -12,6 +12,9 @@ sites:
     url: $RDPYURA
   - name: Backup Web
     url: $BACKUPWEB
+    expectedStatusCodes:
+      - 304
+      - 403
 
 status-website:
   cname: status.yurasu.xyz
