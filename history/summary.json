@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 67,
-    "timeDay": 32,
-    "timeWeek": 67,
-    "timeMonth": 67,
-    "timeYear": 67,
+    "time": 71,
+    "timeDay": 60,
+    "timeWeek": 71,
+    "timeMonth": 71,
+    "timeYear": 71,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "up",
-    "uptime": "98.52%",
+    "uptime": "98.74%",
     "uptimeDay": "98.12%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.52%",
-    "uptimeYear": "98.52%",
-    "time": 473,
-    "timeDay": 742,
-    "timeWeek": 473,
-    "timeMonth": 473,
-    "timeYear": 473,
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "98.74%",
+    "time": 448,
+    "timeDay": 594,
+    "timeWeek": 448,
+    "timeMonth": 448,
+    "timeYear": 448,
     "dailyMinutesDown": {
       "2023-09-24": 27
+    }
+  },
+  {
+    "name": "Backup Web",
+    "url": "$BACKUPWEB",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "backup-web",
+    "status": "down",
+    "uptime": "14.58%",
+    "uptimeDay": "14.58%",
+    "uptimeWeek": "14.58%",
+    "uptimeMonth": "14.58%",
+    "uptimeYear": "14.58%",
+    "time": 58,
+    "timeDay": 58,
+    "timeWeek": 58,
+    "timeMonth": 58,
+    "timeYear": 58,
+    "dailyMinutesDown": {
+      "2023-09-25": 0
     }
   }
 ]
