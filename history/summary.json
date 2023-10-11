@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 72,
-    "timeDay": 98,
-    "timeWeek": 91,
+    "timeDay": 88,
+    "timeWeek": 87,
     "timeMonth": 72,
     "timeYear": 72,
     "dailyMinutesDown": {}
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "91.09%",
+    "uptime": "91.05%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "77.34%",
-    "uptimeMonth": "91.09%",
-    "uptimeYear": "91.09%",
+    "uptimeWeek": "77.22%",
+    "uptimeMonth": "91.05%",
+    "uptimeYear": "91.05%",
     "time": 338,
     "timeDay": 0,
     "timeWeek": 298,
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-10-11": 1097,
+      "2023-10-11": 1108,
       "2023-10-10": 1188,
       "2023-09-24": 27
     }
@@ -50,16 +50,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 70,
-    "timeWeek": 90,
-    "timeMonth": 71,
-    "timeYear": 71,
+    "time": 70,
+    "timeDay": 66,
+    "timeWeek": 87,
+    "timeMonth": 70,
+    "timeYear": 70,
     "dailyMinutesDown": {}
   },
   {
     "name": "Discord Websocket",
-    "url": "wss://gateway.discord.gg/",
+    "url": "https://gateway.discord.gg/",
     "icon": "https://icons.duckduckgo.com/ip3/gateway.discord.gg.ico",
     "slug": "discord-websocket",
     "status": "down",
@@ -68,13 +68,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2023-10-11": 6
+      "2023-10-11": 18
     }
   }
 ]
