@@ -15,6 +15,8 @@ sites:
     expectedStatusCodes:
       - 304
       - 403
+  - name: Discord Websocket
+    url: wss://discord.com/
 
 status-website:
   cname: status.yurasu.xyz
