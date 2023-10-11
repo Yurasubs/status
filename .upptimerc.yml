@@ -16,7 +16,7 @@ sites:
       - 304
       - 403
   - name: Discord Websocket
-    url: wss://gateway.discord.gg/
+    url: https://gateway.discord.gg/
 
 status-website:
   cname: status.yurasu.xyz
