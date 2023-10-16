@@ -1,7 +1,7 @@
 url: $RDPYURA
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-10-15T23:11:23.937Z
+status: up
+code: 200
+responseTime: 257
+lastUpdated: 2023-10-16T09:11:17.643Z
 startTime: 2023-09-23T17:57:53.468Z
 generator: Upptime <https://github.com/upptime/upptime>
