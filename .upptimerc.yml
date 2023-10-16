@@ -17,6 +17,7 @@ sites:
       - 403
   - name: Discord Websocket
     url: https://gateway.discord.gg/
+    check: "tcp-ping"
 
 status-website:
   cname: status.yurasu.xyz
