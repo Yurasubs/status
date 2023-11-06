@@ -10,14 +10,13 @@ sites:
       - 403
   - name: RDP Yura
     url: $RDPYURA
+  - name: RDP Yura2
+    url: $RDPYURA2
   - name: Backup Web
     url: $BACKUPWEB
     expectedStatusCodes:
       - 304
       - 403
-  - name: Discord Websocket
-    url: https://gateway.discord.gg/
-    check: "tcp-ping"
 
 status-website:
   cname: status.yurasu.xyz
