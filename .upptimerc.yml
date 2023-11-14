@@ -11,7 +11,7 @@ sites:
   - name: RDP Yura
     url: $RDPYURA
   - name: RDP Yura2
-    url: $RDPYURA2
+    url: https://we.yurasu.xyz/jellyfin/
   - name: Backup Web
     url: $BACKUPWEB
     expectedStatusCodes:
