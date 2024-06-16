@@ -4,9 +4,9 @@
     "url": "https://www.yurasu.xyz/",
     "icon": "https://icons.duckduckgo.com/ip3/www.yurasu.xyz.ico",
     "slug": "yurasubs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 54,
     "timeMonth": 60,
     "timeYear": 66,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-16": 0
+    }
   },
   {
     "name": "RDP Yura",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "25.33%",
+    "uptime": "25.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "25.33%",
+    "uptimeYear": "25.26%",
     "time": 746,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 746,
     "dailyMinutesDown": {
-      "2024-06-16": 34,
+      "2024-06-16": 1110,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
@@ -248,18 +250,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/we.yurasu.xyz.ico",
     "slug": "rdp-yura2",
     "status": "down",
-    "uptime": "3.54%",
+    "uptime": "3.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.54%",
+    "uptimeYear": "3.53%",
     "time": 66,
     "timeDay": 56,
     "timeWeek": 56,
     "timeMonth": 50,
     "timeYear": 66,
     "dailyMinutesDown": {
-      "2024-06-16": 34,
+      "2024-06-16": 1110,
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 1440,
@@ -484,9 +486,9 @@
     "url": "$BACKUPWEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -495,6 +497,8 @@
     "timeWeek": 54,
     "timeMonth": 67,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-16": 0
+    }
   }
 ]
