@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 73,
-    "timeDay": 52,
-    "timeWeek": 71,
+    "timeDay": 71,
+    "timeWeek": 70,
     "timeMonth": 78,
-    "timeYear": 73,
+    "timeYear": 74,
     "dailyMinutesDown": {
       "2024-06-17": 167,
       "2024-06-16": 330
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "14.13%",
+    "uptime": "14.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.69%",
-    "time": 806,
+    "time": 813,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-01-13": 41,
+      "2025-01-14": 36,
+      "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -397,8 +398,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/we.yurasu.xyz.ico",
     "slug": "rdp-yura2",
     "status": "down",
-    "uptime": "1.82%",
+    "uptime": "1.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 72,
-    "timeDay": 54,
-    "timeWeek": 101,
+    "timeDay": 77,
+    "timeWeek": 70,
     "timeMonth": 84,
     "timeYear": 68,
     "dailyMinutesDown": {
-      "2025-01-13": 41,
+      "2025-01-14": 36,
+      "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
@@ -781,8 +782,7 @@
       "2024-01-19": 1440,
       "2024-01-18": 1440,
       "2024-01-17": 1440,
-      "2024-01-16": 1440,
-      "2024-01-15": 1440
+      "2024-01-16": 1440
     }
   },
   {
@@ -797,8 +797,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 69,
-    "timeDay": 50,
-    "timeWeek": 66,
+    "timeDay": 69,
+    "timeWeek": 68,
     "timeMonth": 69,
     "timeYear": 71,
     "dailyMinutesDown": {
