@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 73,
-    "timeDay": 64,
-    "timeWeek": 83,
-    "timeMonth": 74,
-    "timeYear": 74,
+    "time": 74,
+    "timeDay": 477,
+    "timeWeek": 138,
+    "timeMonth": 87,
+    "timeYear": 75,
     "dailyMinutesDown": {
       "2024-06-17": 167,
       "2024-06-16": 330
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "13.51%",
+    "uptime": "13.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.69%",
-    "time": 895,
+    "time": 904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-02-04": 37,
+      "2025-02-05": 37,
+      "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -397,8 +398,7 @@
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
-      "2024-02-10": 1119,
-      "2024-02-06": 1009
+      "2024-02-10": 1119
     }
   },
   {
@@ -413,12 +413,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 72,
-    "timeDay": 76,
-    "timeWeek": 77,
+    "timeDay": 64,
+    "timeWeek": 75,
     "timeMonth": 77,
-    "timeYear": 69,
+    "timeYear": 68,
     "dailyMinutesDown": {
-      "2025-02-04": 37,
+      "2025-02-05": 37,
+      "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
@@ -781,8 +782,7 @@
       "2024-02-10": 1440,
       "2024-02-09": 1440,
       "2024-02-08": 1440,
-      "2024-02-07": 1440,
-      "2024-02-06": 1440
+      "2024-02-07": 1440
     }
   },
   {
@@ -797,9 +797,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 69,
-    "timeDay": 69,
-    "timeWeek": 73,
-    "timeMonth": 66,
+    "timeDay": 48,
+    "timeWeek": 70,
+    "timeMonth": 65,
     "timeYear": 71,
     "dailyMinutesDown": {
       "2024-06-17": 167,
