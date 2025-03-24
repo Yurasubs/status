@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 83,
-    "timeDay": 54,
-    "timeWeek": 83,
-    "timeMonth": 83,
+    "timeDay": 94,
+    "timeWeek": 86,
+    "timeMonth": 84,
     "timeYear": 90,
     "dailyMinutesDown": {
       "2024-06-17": 167,
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "12.35%",
+    "uptime": "12.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1572,
+    "time": 1615,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-23": 43,
+      "2025-03-24": 42,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -400,8 +401,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/we.yurasu.xyz.ico",
     "slug": "rdp-yura2",
     "status": "down",
-    "uptime": "1.57%",
+    "uptime": "1.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 74,
-    "timeDay": 47,
-    "timeWeek": 91,
-    "timeMonth": 95,
+    "timeDay": 81,
+    "timeWeek": 93,
+    "timeMonth": 96,
     "timeYear": 75,
     "dailyMinutesDown": {
-      "2025-03-23": 43,
+      "2025-03-24": 42,
+      "2025-03-23": 1440,
       "2025-03-22": 1440,
       "2025-03-21": 1440,
       "2025-03-20": 1440,
@@ -784,8 +785,7 @@
       "2024-03-28": 1440,
       "2024-03-27": 1440,
       "2024-03-26": 1440,
-      "2024-03-25": 1440,
-      "2024-03-24": 1440
+      "2024-03-25": 1440
     }
   },
   {
@@ -800,9 +800,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 78,
-    "timeDay": 47,
-    "timeWeek": 122,
-    "timeMonth": 91,
+    "timeDay": 90,
+    "timeWeek": 126,
+    "timeMonth": 92,
     "timeYear": 85,
     "dailyMinutesDown": {
       "2024-06-17": 167,
