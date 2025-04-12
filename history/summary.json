@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 84,
-    "timeDay": 130,
-    "timeWeek": 139,
+    "time": 85,
+    "timeDay": 95,
+    "timeWeek": 144,
     "timeMonth": 107,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "11.93%",
+    "uptime": "11.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-11": 41,
+      "2025-04-12": 40,
+      "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
@@ -400,8 +401,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   },
   {
@@ -416,12 +416,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 71,
-    "timeDay": 120,
-    "timeWeek": 97,
-    "timeMonth": 92,
+    "timeDay": 75,
+    "timeWeek": 99,
+    "timeMonth": 91,
     "timeYear": 77,
     "dailyMinutesDown": {
-      "2025-04-11": 41,
+      "2025-04-12": 40,
+      "2025-04-11": 1440,
       "2025-04-10": 1440,
       "2025-04-09": 1440,
       "2025-04-08": 1440,
@@ -784,8 +785,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   },
   {
@@ -800,9 +800,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 79,
-    "timeDay": 136,
-    "timeWeek": 87,
-    "timeMonth": 97,
+    "timeDay": 65,
+    "timeWeek": 88,
+    "timeMonth": 92,
     "timeYear": 87,
     "dailyMinutesDown": {
       "2024-06-17": 167,
