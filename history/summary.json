@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 86,
-    "timeDay": 729,
-    "timeWeek": 191,
-    "timeMonth": 128,
+    "timeDay": 131,
+    "timeWeek": 197,
+    "timeMonth": 130,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2024-06-17": 167,
@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "11.83%",
+    "uptime": "11.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -37,7 +37,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-16": 42,
+      "2025-04-17": 41,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -400,8 +401,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   },
   {
@@ -410,18 +410,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/we.yurasu.xyz.ico",
     "slug": "rdp-yura2",
     "status": "down",
-    "uptime": "1.50%",
+    "uptime": "1.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 72,
-    "timeDay": 119,
-    "timeWeek": 97,
-    "timeMonth": 92,
+    "timeDay": 107,
+    "timeWeek": 100,
+    "timeMonth": 93,
     "timeYear": 78,
     "dailyMinutesDown": {
-      "2025-04-16": 42,
+      "2025-04-17": 41,
+      "2025-04-16": 1440,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -784,8 +785,7 @@
       "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
-      "2024-04-18": 1440,
-      "2024-04-17": 1440
+      "2024-04-18": 1440
     }
   },
   {
@@ -800,9 +800,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 81,
-    "timeDay": 117,
-    "timeWeek": 175,
-    "timeMonth": 113,
+    "timeDay": 134,
+    "timeWeek": 184,
+    "timeMonth": 115,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2024-06-17": 167,
