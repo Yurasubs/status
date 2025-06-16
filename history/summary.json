@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.yurasu.xyz.ico",
     "slug": "yurasubs",
     "status": "down",
-    "uptime": "92.90%",
+    "uptime": "92.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.73%",
+    "uptimeYear": "87.46%",
     "time": 103,
-    "timeDay": 176,
-    "timeWeek": 201,
-    "timeMonth": 226,
+    "timeDay": 0,
+    "timeWeek": 196,
+    "timeMonth": 220,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2025-06-15": 51,
+      "2025-06-16": 47,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -62,8 +63,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 567,
-      "2024-06-17": 167,
-      "2024-06-16": 330
+      "2024-06-17": 167
     }
   },
   {
@@ -72,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rdp-yura",
     "status": "down",
-    "uptime": "10.70%",
+    "uptime": "10.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -83,7 +83,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-15": 51,
+      "2025-06-16": 47,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -446,8 +447,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -457,17 +457,18 @@
     "slug": "rdp-yura2",
     "status": "down",
     "uptime": "3.42%",
-    "uptimeDay": "36.31%",
-    "uptimeWeek": "90.90%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "76.66%",
     "uptimeMonth": "38.11%",
     "uptimeYear": "3.34%",
     "time": 131,
-    "timeDay": 155,
-    "timeWeek": 189,
-    "timeMonth": 838,
+    "timeDay": 0,
+    "timeWeek": 191,
+    "timeMonth": 850,
     "timeYear": 159,
     "dailyMinutesDown": {
-      "2025-06-15": 51,
+      "2025-06-16": 47,
+      "2025-06-15": 1440,
       "2025-06-14": 866,
       "2025-06-02": 324,
       "2025-06-01": 1440,
@@ -819,8 +820,7 @@
       "2024-06-20": 1440,
       "2024-06-19": 1440,
       "2024-06-18": 1440,
-      "2024-06-17": 1440,
-      "2024-06-16": 1440
+      "2024-06-17": 1440
     }
   },
   {
@@ -829,18 +829,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup-web",
     "status": "down",
-    "uptime": "92.88%",
+    "uptime": "92.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "87.73%",
-    "time": 208,
-    "timeDay": 895,
-    "timeWeek": 909,
-    "timeMonth": 888,
-    "timeYear": 260,
+    "uptimeYear": "87.45%",
+    "time": 209,
+    "timeDay": 0,
+    "timeWeek": 917,
+    "timeMonth": 895,
+    "timeYear": 261,
     "dailyMinutesDown": {
-      "2025-06-15": 51,
+      "2025-06-16": 47,
+      "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
@@ -886,8 +887,7 @@
       "2025-05-03": 1440,
       "2025-05-02": 1440,
       "2025-05-01": 596,
-      "2024-06-17": 167,
-      "2024-06-16": 330
+      "2024-06-17": 167
     }
   }
 ]
